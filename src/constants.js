@@ -16,6 +16,7 @@ export const supportedLocales = [
   'ko-KR',
   'pt-BR',
   'zh-CN',
+  'ru',
 ]
 
 // per ECMA-402, undefined means "runtime's default time zone"
