@@ -1359,7 +1359,7 @@
   },
   "ru": {
 	"common.closeButton":"Закрыть",
-    "common.okButton":"Ок",
+   	"common.okButton":"Ок",
 	"common.cancelButton":"Отменить",
 	"common.cpuTitle":"CPU",
 	"common.memoryTitle":"ОЗУ",
