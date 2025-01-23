@@ -20,6 +20,7 @@ const polyfillIntlFn = (resolve, reject) => {
       require('intl/locale-data/jsonp/pt')
       require('intl/locale-data/jsonp/zh')
       require('intl/locale-data/jsonp/cs')
+      require('intl/locale-data/jsonp/ru')
       resolve()
     }, 'intl-polyfill')
       .catch(error => { reject(`failed to load intl-polyfill: ${error}`) })
