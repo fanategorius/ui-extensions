@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 [[ -e zanata.xml ]] || cd zanata
 
-ZANATA_LOCALES=de,es,fr,it,ja,ko,pt-BR,zh-CN,cs,ka
+ZANATA_LOCALES=de,es,fr,it,ja,ko,pt-BR,zh-CN,cs,ka,ru
 
 mvn \
     at.porscheinformatik.zanata:zanata-maven-plugin:4.7.8:pull \
